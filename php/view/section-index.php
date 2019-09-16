@@ -1,12 +1,13 @@
 <section>
             <h3>Accueil</h3>
 
+                <p>Les centres aérés de la ville de Berre l'étang<p>
 
-            <div class="galerie">
-                <img src="assets/images/photo1.jpeg" alt="peinture" >
-                <img src="assets/images/photo2.jpeg" alt="eau" >
-                <img src="assets/images/photo3.jpeg" alt="gouter" >
-
-
+            
+                <img class="peinture" src="assets/images/photo1.jpeg" alt="peinture" >
+              
             </div>
+
+
+            
         </section>
